@@ -38,8 +38,9 @@ This is the step where you code your stuff
 1. Once the pull request is ok, it can be merged otherwise do the appropriate changes
 2. Delete the branch (only keep master)
 3. Open terminal
-4. Switch to the master branch with this command ``` git checkout master ```
-5. Pull recent changes of the master branch from github ``` git pull ```
+4. Look at the current branch in use with the command ``` git branch ```
+5. Switch to the master branch with this command ``` git checkout master ```
+6. Pull recent changes of the master branch from github ``` git pull ```
 
 #### Pull recent changes
 In case that the current code that you are working on is not the latest version, do this command on your machine : ``` git pull ```
